@@ -3,9 +3,9 @@ cp /usr/share/zoneinfo/Asia/Dubai /etc/localtime
 
 #Database Details
 db_host='64.20.41.122';
-db_user='saimonbd_saimon';
+db_user='saimonbd_zezovipvpn';
 db_pass='@@Saimon123';
-db_name='saimonbd_saimon';
+db_name='saimonbd_zezovipvpn';
 
 install_require()
 {
