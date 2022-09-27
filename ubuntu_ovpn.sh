@@ -2,9 +2,9 @@
 cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
 #Database Details
 HOST='64.20.41.122';
-USER='saimonbd_saimon';
+USER='saimonbd_zezovipvpn';
 PASS='@@Saimon123';
-DBNAME='saimonbd_saimon';
+DBNAME='saimonbd_zezovipvpn';
 
 install_require()
 {
